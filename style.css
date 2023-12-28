@@ -5,6 +5,15 @@
 html{
     font-family: PlusJakartaSans;
 }
+#info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#notification-info{
+    display: flex;
+    align-items: center;
+}
 #notification-text{
     font-weight: 700;
     font-size: 20px;
