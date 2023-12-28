@@ -15,6 +15,13 @@ html{
     align-items: center;
     gap: 0.5rem;
 }
+#notification-count{
+    font-weight: 700;
+    color: white;
+    padding: 0.15rem 0.7rem;
+    background-color: black;
+    border-radius: 0.25rem;
+}
 #notification-text{
     font-weight: 700;
     font-size: 20px;
