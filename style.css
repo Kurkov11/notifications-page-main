@@ -5,3 +5,18 @@
 html{
     font-family: PlusJakartaSans;
 }
+#notification-text{
+    font-weight: 700;
+    font-size: 20px;
+    color: hsl(224, 21%, 14%);
+}
+#mark-as-read{
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(219, 12%, 42%);
+}
+.name{
+    font-weight: 700;
+    font-size: 15px;
+    color: hsl(224, 21%, 14%);
+}
