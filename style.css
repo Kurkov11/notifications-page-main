@@ -124,12 +124,13 @@ html{
     display: flex;
 }
 
-@media only screen and (width > 1400px){
+@media only screen and (width > 700px){
     #content{
         max-width: 640px;
         background-color: white;
         padding: 2rem;
         border-radius: 1rem;
+        box-shadow: rgba(0, 0, 0, 0.04) 0px 10px 15px -3px, rgba(0, 0, 0, 0.02) 0px 4px 6px -2px;
     }
     #wrapper{
         height: 100vh;
@@ -138,7 +139,7 @@ html{
         align-items: center;
     }
     body{
-        background-color: hsl(205, 33%, 90%);
+        background-color: hsl(210, 60%, 98%);
     }
     .group{
         color: hsla(224, 21%, 14%, 0.7);
