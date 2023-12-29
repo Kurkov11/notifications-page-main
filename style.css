@@ -54,9 +54,6 @@ html{
     background-color: hsl(211, 68%, 94%);
     padding: 1rem;
 }
-#notification-msg{
-    flex-direction: column;
-}
 .avatar{
     width: 40px;
     height: 40px;
