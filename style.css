@@ -59,6 +59,8 @@ html{
     margin-top: 1rem;
     padding: 1rem;
     border: 0.2px solid hsla(219, 12%, 42%, 0.3);
+    border-radius: 0.2rem;
+    background-color: white;
 }
 .avatar{
     width: 40px;
