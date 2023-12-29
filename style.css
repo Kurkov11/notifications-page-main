@@ -63,3 +63,6 @@ html{
 .event{
     margin-bottom: 0.2rem;
 }
+.time-ago{
+    color: hsl(219, 14%, 63%);
+}
