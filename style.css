@@ -117,5 +117,12 @@ html{
     #content{
         max-width: 584px;
         background-color: white;
+        padding: 2rem;
+    }
+    #wrapper{
+        height: 100vh;
+    }
+    body{
+        background-color: hsl(205, 33%, 90%);
     }
 }
