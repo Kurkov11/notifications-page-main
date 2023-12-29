@@ -4,6 +4,8 @@
 }
 html{
     font-family: PlusJakartaSans;
+    color: hsl(219, 12%, 42%);
+    font-size: 14px;
 }
 #info{
     display: flex;
@@ -39,6 +41,7 @@ html{
 }
 .notification{
     display: flex;
+    background-color: hsl(211, 68%, 94%);
 }
 .avatar{
     width: 40px;
