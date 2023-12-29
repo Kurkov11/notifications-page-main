@@ -71,3 +71,7 @@ html{
     font-weight: 700;
     margin-left: 0.2rem;
 }
+.group{
+    color: hsla(219, 85%, 26%, 0.8);
+    font-weight: 800;
+}
