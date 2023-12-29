@@ -109,3 +109,6 @@ html{
     display: flex;
     justify-content: space-between;
 }
+#left-side{
+    display: flex;
+}
