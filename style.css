@@ -17,6 +17,7 @@ a:hover{
 }
 #mark-as-read:hover{
     cursor: pointer;
+    color: hsla(219, 85%, 26%, 0.8);
 }
 html{
     font-family: PlusJakartaSans;
