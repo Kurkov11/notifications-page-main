@@ -51,6 +51,7 @@ html{
 .notification{
     display: flex;
     background-color: hsl(211, 68%, 94%);
+    padding: 1rem;
 }
 .avatar{
     width: 40px;
