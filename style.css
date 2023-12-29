@@ -46,9 +46,9 @@ html{
 #notification-count{
     font-weight: 700;
     color: white;
-    padding: 0.2rem 0.7rem;
+    padding: 0.17rem 0.7rem;
     background-color: black;
-    border-radius: 0.25rem;
+    border-radius: 0.3rem;
 }
 #notification-text{
     font-weight: 700;
