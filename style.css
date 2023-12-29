@@ -118,6 +118,7 @@ html{
         max-width: 640px;
         background-color: white;
         padding: 2rem;
+        border-radius: 1rem;
     }
     #wrapper{
         height: 100vh;
