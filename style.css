@@ -112,3 +112,10 @@ html{
 #left-side{
     display: flex;
 }
+
+@media only screen and (width > 1400px){
+    #content{
+        max-width: 584px;
+        background-color: white;
+    }
+}
