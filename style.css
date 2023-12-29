@@ -115,7 +115,7 @@ html{
 
 @media only screen and (width > 1400px){
     #content{
-        max-width: 584px;
+        max-width: 640px;
         background-color: white;
         padding: 2rem;
     }
