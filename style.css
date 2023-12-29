@@ -4,7 +4,7 @@
 }
 a:hover{
     cursor: pointer;
-    color: hsla(219, 85%, 26%, 0.8);
+    color: hsl(219, 85%, 35%);
 }
 .private-message:hover{
     cursor: pointer;
@@ -17,7 +17,7 @@ a:hover{
 }
 #mark-as-read:hover{
     cursor: pointer;
-    color: hsla(219, 85%, 26%, 0.8);
+    color: hsl(219, 85%, 35%);
 }
 html{
     font-family: PlusJakartaSans;
@@ -102,6 +102,6 @@ html{
     margin-left: 0.2rem;
 }
 .group{
-    color: hsla(219, 85%, 26%, 0.8);
+    color: hsl(219, 85%, 35%);
     font-weight: 800;
 }
