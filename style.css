@@ -7,6 +7,9 @@ html{
     color: hsl(219, 12%, 42%);
     font-size: 14px;
 }
+#wrapper{
+    padding: 2rem 1rem;
+}
 #info{
     display: flex;
     align-items: center;
