@@ -66,3 +66,8 @@ html{
 .time-ago{
     color: hsl(219, 14%, 63%);
 }
+.post{
+    color: hsla(224, 21%, 14%, 0.7);
+    font-weight: 700;
+    margin-left: 0.2rem;
+}
