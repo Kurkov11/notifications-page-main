@@ -2,6 +2,15 @@
     font-family: PlusJakartaSans;
     src: url(assets/fonts/PlusJakartaSans-VariableFont_wght.ttf);
 }
+a:hover{
+    cursor: pointer;
+}
+.private-message:hover{
+    cursor: pointer;
+}
+#mark-as-read:hover{
+    cursor: pointer;
+}
 html{
     font-family: PlusJakartaSans;
     color: hsl(219, 12%, 42%);
