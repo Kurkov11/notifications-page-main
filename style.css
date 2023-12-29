@@ -6,6 +6,17 @@ a:hover{
     cursor: pointer;
     color: hsl(219, 85%, 35%);
 }
+.event-dot-container{
+    display: flex;
+    align-items: center;
+}
+.dot{
+    margin-left: 5px;
+    min-width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: hsl(1, 90%, 64%);
+}
 .private-message:hover{
     cursor: pointer;
     background-color: hsl(211, 68%, 94%);
