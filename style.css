@@ -4,6 +4,7 @@
 }
 a:hover{
     cursor: pointer;
+    color: hsla(219, 85%, 26%, 0.8);
 }
 .private-message:hover{
     cursor: pointer;
