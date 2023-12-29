@@ -10,6 +10,11 @@ a:hover{
     cursor: pointer;
     background-color: hsl(211, 68%, 94%);
 }
+.comment-image:hover{
+    outline: 2px solid hsl(211, 68%, 94%);
+    border-radius: 6px;
+    cursor: pointer;
+}
 #mark-as-read:hover{
     cursor: pointer;
 }
