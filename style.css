@@ -37,3 +37,10 @@ html{
     font-size: 15px;
     color: hsl(224, 21%, 14%);
 }
+.notification{
+    display: flex;
+}
+.avatar{
+    width: 40px;
+    height: 40px;
+}
