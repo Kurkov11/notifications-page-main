@@ -55,6 +55,9 @@ html{
     padding: 1rem;
     border-radius: 0.5rem;
 }
+.private-message{
+    margin-top: 0.5rem;
+}
 .avatar{
     width: 40px;
     height: 40px;
