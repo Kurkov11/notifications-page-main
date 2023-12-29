@@ -56,7 +56,9 @@ html{
     border-radius: 0.5rem;
 }
 .private-message{
-    margin-top: 0.5rem;
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 0.2px solid hsla(219, 12%, 42%, 0.3);
 }
 .avatar{
     width: 40px;
